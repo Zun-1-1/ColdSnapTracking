@@ -20,6 +20,12 @@ Or conda as
 $ conda install -c conda-forge --file requirements.txt 
 ```
 
+Once complete, the package can then install with
+
+```Bash
+$ pip install git+https://github.com/Zun-1-1/ColdSnapTracking
+```
+
 Note: this package is only compatible with Python 3.9.
 
 ## Example
