@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: coldsnap
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Weronika
+    family-names: Osmolska
+    email: weronika.osmolska@gmail.com
+    affiliation: University of Leeds
+    orcid: 'https://orcid.org/0000-0001-7288-4966'
+repository-code: 'https://github.com/Zun-1-1/ColdSnapTracking'
+license: MIT
