@@ -6,6 +6,9 @@ This package allows you to track cold spell events, by
 - Finding contours of these extreme temperature anomalies
 - Tracking these contours in space and time
 
+Please contact Weronika Osmolska (eewo@leeds.ac.uk) if you have any questions or require more information.
+
+
 ## Installation
 
 The dependencies for this package are listed in requirements.txt and can be downloaded through mamba as
@@ -180,5 +183,3 @@ filename = save_tracks+'_'+advection+'_year_'+str(year)+'_areathresh_'+str(min_a
 track = cs.trajectories(data,filename,resolution=0.25,area_thres=min_ar,overlap=False,advection=advection,max_speed=speed)
 
 ```
-
-Please contact Weronika Osmolska (eewo@leeds.ac.uk) for more information.
