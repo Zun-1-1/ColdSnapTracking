@@ -48,7 +48,6 @@ import numpy as np
 #Directories
 path = 'path_to_the_temperature/temperature_sf*.nc'
 out_file = 'dir_to_save_deseasonalised_t_/deseason_linear_fit' 
-tmpdev_package = 'path_to_tmpdev_package/'
 #Time range
 year_start = 1940
 year_end = 2023
